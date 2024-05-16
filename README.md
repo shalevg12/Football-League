@@ -10,6 +10,7 @@ Welcome to the **Football League** project! This C++ project simulates a soccer 
 - [Usage](#usage)
 - [File Structure](#file-structure)
 - [Contributing](#contributing)
+- [Acknowledgements](#acknowledgements)
 
 ## Introduction
 
@@ -68,3 +69,7 @@ The **Football League** project simulates a soccer league with the following com
 ## Contributing
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes. Ensure that your code follows the project's coding standards and is well-documented.
+
+## Acknowledgements
+
+Project owner: Shalev Gabay

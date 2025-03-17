@@ -32,24 +32,38 @@ The **Football League** project simulates a soccer league with the following com
 
 1. Clone the repository to your local machine:
     ```sh
-    git clone https://github.com/your-username/football_league.git
+    https://github.com/shalevg12/Football-League.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd football_league
+    cd football-league
     ```
 3. Compile the project using your preferred C++ compiler:
     ```sh
-    g++ -o football_league Main.cpp Coach.cpp Date.cpp Footballer.cpp Game.cpp Ligat_HaAl.cpp Manager.cpp Person.cpp Referee.cpp Stadium.cpp Team.cpp Worker.cpp
+    g++ -o football-league Main.cpp Coach.cpp Date.cpp Footballer.cpp Game.cpp Ligat_HaAl.cpp Manager.cpp Person.cpp Referee.cpp Stadium.cpp Team.cpp Worker.cpp
     ```
 
 ## Usage
 
 1. Run the compiled program:
     ```sh
-    ./football_league
+    ./main
     ```
 2. Follow the on-screen instructions to manage teams, simulate games, and view the league table.
+    ```sh
+    1.Add Footballer
+    2.Add Referee
+    3.Print Team Details
+    4.Print Referee Details
+    5.Print Future Games Details
+    6.Print Worker Salary
+    7.Add Goal
+    8.Add Judgment Errors
+    9.Print Outstanding People
+    10.Print Table
+    11.Print Footballer Detail With Smallest Salary
+    12.Exit
+    ```
 
 ## File Structure
 
